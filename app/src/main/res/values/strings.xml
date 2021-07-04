@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PointsTestApp</string>
+    <string name="go_title">Поехали</string>
+    <string name="go_title_done">Приехали!</string>
+    <string name="points_number">Количество точек</string>
+    <string name="bezier">Сглаживание</string>
+    <string name="to_gallery">Save -> Gallery</string>
+    <string name="save_success">Ура!</string>
+    <string name="save_fail">Не ура! =(</string>
+    <string name="invalid_points_count">Введите число точек правильно!</string>
+    <string name="network_error">Ошибка сети</string>
+</resources>
